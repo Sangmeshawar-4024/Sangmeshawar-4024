@@ -20,7 +20,7 @@ I'm an engineering student passionate about **Java, JavaScript, Next.js, React.j
 ![Sangmeshawar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sangmeshawar&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sangmeshawar)
+- [LinkedIn](https://www.linkedin.com/in/sangmeshawar-nila-74204727a/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/user/nilasangafigj/)
 
 ### 🏆 Achievements
