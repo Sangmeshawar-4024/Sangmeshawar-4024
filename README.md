@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm an engineering student passionate about **Java, JavaScript, Next.js, React.js, and Express.js**. I have experience in **full-stack web development** and love building scalable and efficient applications.
 
-- 🔭 Currently working on **Chai Kart Project in Next.js**
+- 🔭 Currently working on **Training And Placement project in Next.js**
 - 🌱 Learning **Advanced Next.js & DSA**
 - 📌 Preparing for **Placements & GATE**
 - 💡 Interested in **Backend Development & Frontend Development**
